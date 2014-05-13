@@ -1,0 +1,20 @@
+{
+  "name": "google-drive",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "google-signin": "GoogleWebComponents/google-signin#~0.0.6",
+    "google-apis": "PolymerLabs/google-apis"
+  },
+  "homepage": "https://github.com/addyosmani/google-drive",
+  "_release": "08ef0fc176",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "08ef0fc1769adf00f7ac6ec7716b06cd5d387eeb"
+  },
+  "_source": "git://github.com/addyosmani/google-drive.git",
+  "_target": "master",
+  "_originalSource": "addyosmani/google-drive",
+  "_direct": true
+}
